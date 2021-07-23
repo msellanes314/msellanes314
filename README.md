@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding, data analysis and education.
 - 🌱 I’m currently learning Data Analysis with Python.
 - 💞️ I’m looking to collaborate on projects that use real world data sets to explore trends.
-- 📫 You can reach me by commenting on my work. 
 
 <!---
 msellanes314/msellanes314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
